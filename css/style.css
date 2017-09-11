@@ -1,0 +1,38 @@
+.contentbackview{
+    width:230px;
+
+    position: fixed;
+
+    top: 30%;
+    left: 50%;
+
+    margin-left: -115px;
+}
+
+
+#content{
+
+    font-size: 14px;
+    color: dimgray;
+}
+
+#author{
+    text-align: right;
+    font-size: 14px;
+    color: dimgray;
+}
+
+.back{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.back img{
+
+
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
